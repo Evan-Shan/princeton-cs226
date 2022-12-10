@@ -1,1 +1,1 @@
-# princeton-cs226
+# princeton-cs226-algorithms
